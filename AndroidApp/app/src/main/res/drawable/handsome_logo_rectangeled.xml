@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="#76272727"/>
+            <corners android:radius="150dp" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/handsome_logo"/>
+</layer-list>
